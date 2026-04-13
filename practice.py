@@ -5,5 +5,3 @@ for i in a:
     if(i==vowels):
         count+=1
 print(count)
-        
- 
